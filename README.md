@@ -17,6 +17,11 @@
   - [**👾 Clear more of my neverending video game backlog**](https://backloggery.com/bazzadwarf)
   - 🖥️ Code more!
 
+### ✨ Games that you can try out! ✨
+
+- [**🔥 Infernal Sin**](https://louishobbs.com/infernal-sin/)
+- [**🛡️ Gladio ⚔️**](https://louishobbs.com/gladio/)
+
 ### 📁 Languages and Tools I am vaguely familiar with
 
 - **🔟 Languages** : C#, C++ (and a bit of C)
@@ -32,3 +37,5 @@ I am always open for contact here on Github, you can also contact/connect with m
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louis-hobbs/)](https://www.linkedin.com/in/louis-hobbs/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/bazzadwarf/)](https://www.twitter.com/bazzadwarf/)
 [![Website Badge](https://img.shields.io/badge/-🌐_Website-brightgreen?style=flat-square&link=https://www.louishobbs.com)](https://www.louishobbs.com)
+
+<!-- I might have gone over the top with my usage of emojis... maybe... --!>
