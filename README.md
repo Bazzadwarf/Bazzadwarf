@@ -17,12 +17,6 @@
   - 📕 Planning to read up more on real-time 3D graphics architecture soon 
 - 📺 Outside of programming, you can usually find me talking about and playing a variety of games
 
-#### 🥅 **2020 Goals:**  
-  - ~~🎓Graduate Uni~~
-  - [**📚 Read more books!**](https://www.goodreads.com/user_challenges/20494783)
-  - [**👾 Clear more of my neverending video game backlog**](https://backloggery.com/bazzadwarf)
-  - 🖥️ Code more!
-
 ### ✨ Games that you can try out! ✨
 
 - [**🔥 Infernal Sin**](https://louishobbs.com/infernal-sin/)
