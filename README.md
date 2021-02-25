@@ -13,8 +13,6 @@
 - 🎮 Aspiring game developer and wannabe designer
 - 🎓 Computer Games Programming Graduate from the University of Derby, currently located in Nottingham
 - 🔨 Currently working on polishing up some old projects!
-- 📖 Reading up on Data-Oriented Design and thinking more about how/what I'm programming
-  - 📕 Planning to read up more on real-time 3D graphics architecture soon 
 - 📺 Outside of programming, you can usually find me talking about and playing a variety of games
 
 ### ✨ Games that you can try out! ✨
