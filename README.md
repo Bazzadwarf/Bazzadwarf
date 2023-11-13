@@ -12,7 +12,7 @@
 - 🔨 Currently working on polishing up some old projects!
 - 📺 Outside of programming, you can usually find me talking about and playing a variety of games
 
-### ✨ Games that I am currently working on! ✨
+### 🛠️ Games that I am currently working on! 🛠️
 
 - [**🏢 Nakatomi**](https://github.com/bazzadwarf/nakatomi)
 
