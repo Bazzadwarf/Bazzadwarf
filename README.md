@@ -7,7 +7,6 @@
 
 ### 👨‍💻 About me!
 
-- 🎮 Aspiring game developer and wannabe designer
 - 🎓 Computer Games Programming Graduate from the University of Derby, currently located in Nottingham
 - 🔨 Currently working on polishing up some old projects!
 - 📺 Outside of programming, you can usually find me talking about and playing a variety of games
