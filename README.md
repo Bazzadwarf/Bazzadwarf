@@ -21,10 +21,10 @@
 - [**🔥 Infernal Sin**](https://louishobbs.com/infernal-sin/)
 - [**🛡️ Gladio ⚔️**](https://louishobbs.com/gladio/)
 
-### 📁 Languages and Tools I am vaguely familiar with
+### 📁 Languages and Tools I am familiar with
 
 - **🔟 Languages** : C#, C++ (and a bit of C)
 - **🕹️ Game Tools** : Unity, UE4, SteamVR, VRTK
-- **🧰 General Tools** : Git, Markdown, Discord / MSTeams / Slack
+- **🧰 General Tools** : Git, Markdown, Discord / MSTeams
 
 <!-- I might have gone over the top with my usage of emojis... maybe... --!>
