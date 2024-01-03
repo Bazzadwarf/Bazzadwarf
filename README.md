@@ -13,12 +13,17 @@
 ### 🛠️ Things I am currently working on! 🛠️
 
 - [**🏢 Nakatomi**](https://github.com/bazzadwarf/nakatomi)
-- [**🤖 The Ochulus**](https://github.com/Bazzadwarf/TheOchulus)
 
 ### ✨ Games that you can try out! ✨
 
 - [**🔥 Infernal Sin**](https://louishobbs.com/infernal-sin/)
 - [**🛡️ Gladio ⚔️**](https://louishobbs.com/gladio/)
+
+### 🖥️ Projects that I have worked on! 🖥️
+
+- [**🤖 The Ochulus**](https://github.com/Bazzadwarf/TheOchulus)
+- [**🏆 osu! History of Rank 1 Project**](https://osu.ppy.sh/wiki/en/History_of_osu%21/Online_rankings/osu%21)
+
 
 ### 📁 Languages and Tools I am familiar with
 
