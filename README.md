@@ -1,7 +1,7 @@
 ### 👋 Ay Up, I'm Louis! 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:buisness@louishobbs.com)](mailto:buisness@louishobbs.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:business@louishobbs.com)](mailto:business@louishobbs.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louis-hobbs/)](https://www.linkedin.com/in/louis-hobbs/)
 [![Website Badge](https://img.shields.io/badge/-🌐_Website-brightgreen?style=flat-square&link=https://www.louishobbs.com)](https://www.louishobbs.com)
 
