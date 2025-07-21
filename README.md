@@ -32,7 +32,7 @@
 ### 📁 Languages and Tools I am familiar with
 
 - **🔟 Languages** : C#, C++ (and a bit of C)
-- **🕹️ Game Tools** : Unity, UE4, SteamVR, VRTK
+- **🕹️ Game Tools** : Unreal Engine, Unity, VR
 - **🧰 General Tools** : Git, Markdown, Discord / MSTeams
 
 <!-- I might have gone over the top with my usage of emojis... maybe... --!>
